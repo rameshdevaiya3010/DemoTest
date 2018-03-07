@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoTest</string>
+
+
+    <string name="filtercontributors">Filter Contributors</string>
+
+    <string name="nointernet">You have no internet connection</string>
+
+</resources>
